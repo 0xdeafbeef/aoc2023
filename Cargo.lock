@@ -21,3 +21,7 @@ version = "0.0.0"
 dependencies = [
  "anyhow",
 ]
+
+[[package]]
+name = "day02"
+version = "0.0.0"
